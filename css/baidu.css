@@ -1,0 +1,66 @@
+body {
+				background-color: lightgray;
+			}
+			
+			div {
+				padding-top: 20px;
+				padding-left: 23px;
+				box-sizing: border-box;
+			}
+			.big {
+				
+				height: 456px;
+				width: 443px;
+				background-color: white;
+				margin: 70px auto;
+				
+			}
+			
+			.firstLine {
+				font-size: 23px;
+				margin-bottom: 30px;
+			}
+			
+			.secondeLine {
+				
+				padding-top: 0px;
+				height: 60px;
+			}
+			.fourLine {
+				height: 25px;
+				padding-top: 0px;
+				margin-top: 10px;
+				margin-bottom: 5px;
+				padding-left: 18px;
+			}
+			.fiveLine {
+				height: 40px;
+				padding-top: 0px;
+				padding-left: 18px;
+			}
+			.sixLine {
+				padding-top: 0px;
+				padding-left: 18px;
+			}
+			.sevenLine {
+				height: 60px;
+				margin-top: 44px;
+				margin-left: -23px;
+				padding: 23;
+				line-height: 0px;
+				background-color: lightblue;
+				
+			}
+			.input {
+				font-size: 19px;
+				height: 38px;
+				width: 332px;
+				box-sizing: border-box;
+			}
+			.login {
+				background-color: #3F89EC;
+				border-radius:7px;
+			}
+			a {
+				text-decoration: none;
+			}
